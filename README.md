@@ -12,3 +12,9 @@
 
 
 ![Alt Text](https://pbs.twimg.com/profile_images/1299699231360315394/RImt5qQq.jpg)
+
+
+PHY | CHY
+--- | ---
+p1  | c1
+p2  | c2
